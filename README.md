@@ -65,3 +65,30 @@ The project is perfect for accessibility, innovation, and showcasing the power o
    ```bash
    git clone https://github.com/asikdial-code/ai-virtual-mouse.git
    cd ai-virtual-mouse
+   ```
+
+2. Create a virtual environment and activate it:
+   ```bash
+   python -m venv venv
+   source venv/bin/activate  # On Windows use `venv\Scripts\activate`
+   ```
+
+3. Install the required dependencies:
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+4. Run the project:
+   ```bash
+   python main.py
+   ```
+
+---
+
+## **📄 License**  
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+---
+
+## **📧 Contact**  
+For any inquiries or feedback, please contact [asikdial-tech](mailto:asikdial-tech@gmail.com).
